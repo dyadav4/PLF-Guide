@@ -11,7 +11,7 @@ import SwiftUI
 struct PLF_GuideApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FPLPlayersView()
         }
     }
 }

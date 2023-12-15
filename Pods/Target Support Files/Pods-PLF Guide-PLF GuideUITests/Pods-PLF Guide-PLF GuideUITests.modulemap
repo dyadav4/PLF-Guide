@@ -1,0 +1,6 @@
+framework module Pods_PLF_Guide_PLF_GuideUITests {
+  umbrella header "Pods-PLF Guide-PLF GuideUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
